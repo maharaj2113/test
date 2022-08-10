@@ -1,4 +1,4 @@
-module github.com/maharaj2113/Golang
+module github.com/maharaj2113/test
 
 go 1.18
 
