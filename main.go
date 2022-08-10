@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/maharaj2113/Golang/router"
+	"github.com/maharaj2113/test/router"
 )
 
 func main() {
